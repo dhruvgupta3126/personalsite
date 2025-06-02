@@ -26,14 +26,14 @@ export default function Home() {
           <div className="lg:w-3/5">
             <p className="mt-4 text-base">
               {
-                "Hi there! I&apos;m Dhruv. I&apos;m a fast learning Python developer with hands-on experience working across two countries, India and Sweden where I&apos;ve built scalable systems in AI, IoT, and data engineering.I have a passion for data storytelling, with my internship at Stegra working with visualising factory time-series data and my dissertation where I did an investigatory data analysis with ML to find bias in stop and frisk data and more data science projects, I have gained experience in handling different data types and want to pursue my career creating stories with data. I&apos;m also a performing musician, having played at the Edinburgh Fringe Festival 2023 and 2024. Beyond tech and music, I&apos;m deeply passionate about creating events that bring people together and organising cultural experiences."
+                "Hi there! I'm Dhruv. I'm a fast learning developer with hands-on experience working across two countries, India and Sweden where I've built scalable systems in AI, IoT, and data engineering.I have a passion for data storytelling, with my internship at Stegra working with visualising factory time-series data and my dissertation where I did an investigatory data analysis with ML to find bias in stop and frisk data and more data science projects, I have gained experience in handling different data types and want to pursue my career creating stories with data. I&apos;m also a performing musician, having played at the Edinburgh Fringe Festival 2023 and 2024. Beyond tech and music, I'm deeply passionate about creating events that bring people together and organising cultural experiences."
               }
             </p>
 
             <p className="mt-4 text-base">
               Beyond tech and music, I&apos;m deeply passionate about data storytelling. (
               <Link
-                href="https://drive.google.com/file/d/1wNBd0Fis1hNJSgiGqouNyU3Oc7QJYHzu/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1NoruxVbwd5zOi7i4VDR_hDIzU7x4upGM/view?usp=sharing"
                 className="text-blue-500 underline hover:text-blue-600 duration-100"
                 rel="noopener noreferrer"
                 target="_blank"
@@ -81,7 +81,7 @@ export default function Home() {
       <section className="px-4 py-6 m-4 sm:m-6 lg:mx-8 lg:my-4 my-2">
         <h2 className="text-xl font-bold leading-tight sm:text-2xl">Music</h2>
         <p className="mt-2 text-base">
-          {"Here&apos;s my listening activity on Spotify in the last month:"}
+          {"Here's my listening activity on Spotify in the last month:"}
         </p>
         <Music />
       </section>
