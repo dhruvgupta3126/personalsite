@@ -20,15 +20,7 @@ export const contentData = [
         link: "https://wyzbo.com/",
         skills: ["Python", "Java", "OAuth", "Kubernetes", "Mockito", "unittest"]
       },
-      {
-        title: "Wyzbo",
-        subTitle: "Software Engineer Intern",
-        date: "June 2022 – August 2022",
-        description:
-          "Built a sandbox data pipeline on a wealth management platform with Python, Spark, and SQL. Generated synthetic trade data from 4 custodians and 30+ configurations. Frontend built using Java (Quarkus) and Amazon API Gateway.",
-        link: "https://wyzbo.com/",
-        skills: ["Python", "Spark", "SQL", "Quarkus", "Amazon API Gateway"]
-      }
+      
     ]
   },
   {

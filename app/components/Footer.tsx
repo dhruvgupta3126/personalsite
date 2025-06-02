@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="p-3 m-3 sm:m-6 lg:mx-8 lg:my-4 text-center border-t-4 border-neutral-300 dark:border-slate-700">
       <span className=" text-md underline text-blue-600 cursor-pointer block mb-3">
         <Link
-          href="https://drive.google.com/file/d/1wNBd0Fis1hNJSgiGqouNyU3Oc7QJYHzu/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1NoruxVbwd5zOi7i4VDR_hDIzU7x4upGM/view"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -14,7 +14,7 @@ export default function Footer() {
         </Link>
       </span>
       <p className="text-xs text-slate-700 dark:text-slate-400">
-        © Nisiman 2024. All Rights Reserved
+        © Dhruv 2025. All Rights Reserved
       </p>
       <Link
         href="https://github.com/dhruvgupta3126"

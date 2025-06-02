@@ -19,19 +19,19 @@ export default function Home() {
           <div className="lg:w-2/5 flex justify-start items-center">
             <Image
               src={nisi}
-              alt="Nisiman&apos;s Picture"
+              alt="Dhruv&apos;s Picture"
               className="rounded-full lg:rounded-md w-[150px] lg:w-[250px] my-3"
             />
           </div>
           <div className="lg:w-3/5">
             <p className="mt-4 text-base">
               {
-                "Hi there! I'm Dhruv. I'm a fast learning developer with hands-on experience working across two countries, India and Sweden where I've built scalable systems in AI, IoT, and data engineering.I have a passion for data storytelling, with my internship at Stegra working with visualising factory time-series data and my dissertation where I did an investigatory data analysis with ML to find bias in stop and frisk data and more data science projects, I have gained experience in handling different data types and want to pursue my career creating stories with data. I&apos;m also a performing musician, having played at the Edinburgh Fringe Festival 2023 and 2024. Beyond tech and music, I'm deeply passionate about creating events that bring people together and organising cultural experiences."
+                "Hi there! I'm Dhruv. I'm a fast learning developer with hands-on experience working across two countries, India and Sweden where I've built scalable systems in AI, IoT, and data engineering.I have a passion for data storytelling, with my internship at Stegra working with visualising factory time-series data and my dissertation where I did an investigatory data analysis with ML to find bias in stop and frisk data and more data science projects, I have gained experience in handling different data types and want to pursue my career creating stories with data. I'm also a performing musician, having played at the Edinburgh Fringe Festival 2023 and 2024. Beyond tech and music, I'm deeply passionate about creating events that bring people together and organising cultural experiences."
               }
             </p>
 
             <p className="mt-4 text-base">
-              Beyond tech and music, I&apos;m deeply passionate about data storytelling. (
+              Beyond tech and music, I'm deeply passionate about data storytelling. (
               <Link
                 href="https://drive.google.com/file/d/1NoruxVbwd5zOi7i4VDR_hDIzU7x4upGM/view?usp=sharing"
                 className="text-blue-500 underline hover:text-blue-600 duration-100"
@@ -64,7 +64,7 @@ export default function Home() {
         <p className="mt-2 text-base">
           The best way to reach me is to send me an email at{" "}
           <Link
-            href="mailto:nisimanbhardwaj29@gmail.com"
+            href="mailto:dhruvgupta.31dg@gmail.com"
             className="text-blue-500 underline hover:text-blue-600 duration-100"
             rel="noopener noreferrer"
             target="_blank"

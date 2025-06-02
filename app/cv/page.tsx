@@ -70,10 +70,10 @@ export default function CV() {
         <section className="flex items-center">
           <div>
             <h1 className="mb-0.5 text-xl md:text-2xl text-slate-900 dark:text-slate-100">
-              Nisiman
+              Dhruv
             </h1>
             <p className="text-slate-700 dark:text-slate-300 text-sm md:text-md">
-              Software Engineer
+              Tech lover
             </p>
             <span className="text-sm text-slate-800 dark:text-slate-400">
               <Link
@@ -81,7 +81,7 @@ export default function CV() {
                 className="hover:underline"
                 rel="canonical noopener noreferrer"
               >
-                nisiman.com
+                dhruv.com
               </Link>
             </span>
           </div>
